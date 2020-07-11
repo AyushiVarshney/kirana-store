@@ -1,0 +1,14 @@
+.formDiv{
+    background-color: rgba(0,0,0,0.7);
+    border-radius:5px;
+    padding: 20px 30px 20px 30px;
+}
+
+.btn{
+    background-color: #17a2b8;
+    color:#fff;
+    border-color: #17a2b8;
+    width:25%;
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+}
